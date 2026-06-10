@@ -16,8 +16,7 @@ Convert TikTok web sessions (1459) to powerful app sessions (1233). Essential fo
 *   **Powerful:** Handles scale efficiently.
 *   **Fast:** Optimized for speed.
 *   **Accurate:** 100% precise conversion.
-*   **Clean API:** Easy integration.
-*   **Secure:** Built with high standards.
+*   **Private API:** completely private API .
 
 ## Get the Source Code:
 
